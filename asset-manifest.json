@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fortify-app/static/css/main.ad4bbdcc.css",
-    "main.js": "/fortify-app/static/js/main.3fec2299.js",
-    "static/js/453.a3c1d153.chunk.js": "/fortify-app/static/js/453.a3c1d153.chunk.js",
-    "index.html": "/fortify-app/index.html",
-    "main.ad4bbdcc.css.map": "/fortify-app/static/css/main.ad4bbdcc.css.map",
-    "main.3fec2299.js.map": "/fortify-app/static/js/main.3fec2299.js.map",
-    "453.a3c1d153.chunk.js.map": "/fortify-app/static/js/453.a3c1d153.chunk.js.map"
+    "main.css": "/fortify-homes/static/css/main.ad4bbdcc.css",
+    "main.js": "/fortify-homes/static/js/main.c9d2392c.js",
+    "static/js/453.a3c1d153.chunk.js": "/fortify-homes/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/fortify-homes/index.html",
+    "main.ad4bbdcc.css.map": "/fortify-homes/static/css/main.ad4bbdcc.css.map",
+    "main.c9d2392c.js.map": "/fortify-homes/static/js/main.c9d2392c.js.map",
+    "453.a3c1d153.chunk.js.map": "/fortify-homes/static/js/453.a3c1d153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.3fec2299.js"
+    "static/js/main.c9d2392c.js"
   ]
 }
